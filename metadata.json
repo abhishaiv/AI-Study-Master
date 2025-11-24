@@ -1,0 +1,5 @@
+{
+  "name": "100x AI Study Mentor",
+  "description": "An AI-powered personal study assistant using Gemini models to help students catch up on course topics, take quizzes, and get assignment guidance.",
+  "requestFramePermissions": []
+}
